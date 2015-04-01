@@ -1,0 +1,1 @@
+yay! Single Instruction, highly portable VM :)
